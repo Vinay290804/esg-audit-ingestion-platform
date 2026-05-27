@@ -1,0 +1,50 @@
+{
+  "transactions": [
+    {
+      "transaction_id": "CNQ-7781",
+      "category": "flight",
+      "transaction_date": "2026-02-11",
+      "employee_id": "E1024",
+      "home_facility_code": "1000",
+      "origin_airport": "JFK",
+      "destination_airport": "LHR",
+      "fare_class": "economy",
+      "amount": "811.42",
+      "currency": "USD"
+    },
+    {
+      "transaction_id": "CNQ-7788",
+      "category": "hotel",
+      "transaction_date": "2026-02-14",
+      "employee_id": "E1024",
+      "home_facility_code": "1000",
+      "merchant": "London City Hotel",
+      "nights": "3",
+      "amount": "690.00",
+      "currency": "GBP"
+    },
+    {
+      "transaction_id": "CNQ-7801",
+      "category": "car",
+      "transaction_date": "2026-03-03",
+      "employee_id": "E2018",
+      "home_facility_code": "2000",
+      "merchant": "National Car Rental",
+      "distance_miles": "218",
+      "amount": "287.31",
+      "currency": "USD"
+    },
+    {
+      "transaction_id": "CNQ-7819",
+      "category": "flight",
+      "transaction_date": "2026-03-12",
+      "employee_id": "E5120",
+      "home_facility_code": "9999",
+      "origin_airport": "SFO",
+      "destination_airport": "ORD",
+      "fare_class": "business",
+      "amount": "1180.00",
+      "currency": "USD"
+    }
+  ]
+}

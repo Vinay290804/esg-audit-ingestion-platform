@@ -1,0 +1,5 @@
+Buchungsdatum,Werk,Materialkurztext,Menge,Basismengeneinheit,Materialbeleg,Kostenstelle
+2026-01-15,1000,Diesel fuel for boiler house,18400,L,5000021255,CC-OPS-01
+15.02.2026,2000,Gasoline fleet card purchase,960,GAL,5000021288,CC-FLEET
+20260303,9999,Diesel emergency generator refill,62000,L,5000021304,CC-UNK
+2026-03-21,BER1,Natural gas procurement,1200,MWH,5000021339,CC-FAC-DE

@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+db.sqlite3
+staticfiles/
+.env
+server.out
+server.err
+node_modules/
